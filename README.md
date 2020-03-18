@@ -21,5 +21,5 @@ All those labels are visual estimation of the actual amount.
 Training set: 15000 images in total, all the classes are balanced(3000 images per class).
 Test set 3500 images in total, labels are held by course assistant.
 
-# Models
+# 3. Models
 I implemented a modified LeNet and AlexNet with 85% and 91% accuracy on test data respectively
