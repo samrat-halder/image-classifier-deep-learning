@@ -18,7 +18,7 @@ There are 5 classes in total:
 All those labels are visual estimation of the actual amount.
 
 # 2.2 Data organization
-Training set: 15000 images in total, all the classes are balanced(3000 images per class). Data available on kaggle
+Training set: 15000 images in total, all the classes are balanced(3000 images per class). Data available on kaggle.
 Test set 3500 images in total
 # 3. Models
 I implemented a modified LeNet and AlexNet with 85% and 91% accuracy on test data respectively
